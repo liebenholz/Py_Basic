@@ -16,11 +16,11 @@ https://youtu.be/kWiCuklohdY
   07. 함수
   08. 표준입출력
 
-22.07.31 SUN : ch.09 - 
+22.07.31 SUN : ch.09 - https://youtu.be/kWiCuklohdY&t=10226s
   09. 클래스
 
-22.08.09 MON : ch.10 - 
+22.08.09 MON : ch.10 - https://youtu.be/kWiCuklohdY?t=17413
   10. 예외처리
 
-22.08.11 THU : ch.11 - 
+22.08.11 THU : ch.11 - https://youtu.be/kWiCuklohdY?t=18864
   11. 모듈과 패키지
